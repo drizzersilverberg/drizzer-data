@@ -821,6 +821,6 @@
     { "source" : "chisoku", "target" : "chikyou", "weight": 8, "desc": "Lampdragon Bandits"},
     { "source" : "chii", "target" : "chikyou", "weight": 8, "desc": "Lampdragon Bandits"},
     { "source" : "chikai", "target" : "chichin", "weight": 8, "desc": "Narcissus Peoples"},
-    { "source" : "chifuku", "target" : "chiyuu__", "weight": 2, "desc": "Business"},
+    { "source" : "chifuku", "target" : "chiyuu__", "weight": 2, "desc": "Business"}
   ]
 }
