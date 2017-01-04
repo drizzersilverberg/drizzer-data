@@ -764,8 +764,19 @@
         "type" : "NPC"
     }
   ],
-  "edges": [
-    { "source" : "tenkai", "target" : "tenju", "weight": 10},
-    { "source" : "tenkai", "target" : "tenki", "weight": 6}
+"edges": [
+    { "source" : "tenkai", "target" : "tenju", "weight": 10, "desc": "Brother-Sister"},
+    { "source" : "tenkai", "target" : "tenki", "weight": 6, "desc": "Commander-Strategist"},
+    { "source" : "tenkai", "target" : "tenkuu", "weight": 2, "desc": "Conflict to Ally"},
+    { "source" : "tenkai", "target" : "tenzai", "weight": 6, "desc": "Eilie interested to Riou"},
+    { "source" : "tenkai", "target" : "chima", "weight": 6, "desc": "Pet-Master?"},
+    { "source" : "tenkai", "target" : "chizoku", "weight": 6, "desc": "Riou's Copycat"},
+    { "source" : "tenki", "target" : "chifuku", "weight": 8, "desc": "Strategist Classmate"},
+    { "source" : "tenkan", "target" : "chibi", "weight": 8, "desc": "Dragon-Knight Relations"},
+    { "source" : "tenyuu", "target" : "tenkuu", "weight": 8, "desc": "Muse Alliance"},
+    { "source" : "tenmou", "target" : "chikai", "weight": 10, "desc": "Father-Son"},
+    { "source" : "tenei", "target" : "tenko", "weight": 4, "desc": "Neclord Hunter"},
+    { "source" : "tenei", "target" : "chihei", "weight": 4, "desc": "Neclord Hunter"},
+    { "source" : "tenko", "target" : "chihei", "weight": 4, "desc": "Neclord Hunter"}
   ]
 }
