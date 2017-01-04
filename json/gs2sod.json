@@ -1,0 +1,771 @@
+{
+  "meta" : [
+  	{ 
+  		"author" : "Dendi Handian",
+  		"reference" : ["http://suikoden.wikia.com/wiki/108_Stars_of_Destiny"] 
+  	}
+  ],
+
+  "nodes": [
+   	{
+        "star" : "tenkai",
+        "star-desc" : "Chief Star of Heaven",
+        "star-rank" : "Heaven",
+        "name" : "Riou",
+        "type" : "Hero"
+    },
+    {
+        "star" : "tengou",
+        "star-desc" : "Star of Conflagration",
+        "star-rank" : "Heaven",
+        "name" : "Ridley Wizen/Boris Wizen",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenki",
+        "star-desc" : "Star of Wisdom",
+        "star-rank" : "Heaven",
+        "name" : "Shu",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenkan",
+        "star-desc" : "Star of Idleness",
+        "star-rank" : "Heaven",
+        "name" : "Luc",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenkan",
+        "star-desc" : "Star of Bravery",
+        "star-rank" : "Heaven",
+        "name" : "Humphrey Mintz",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenyuu",
+        "star-desc" : "Star of Heroic Ferocity",
+        "star-rank" : "Heaven",
+        "name" : "Hauser",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenmou",
+        "star-desc" : "Star of Swift Courage",
+        "star-rank" : "Heaven",
+        "name" : "Kiba Windamier",
+        "type" : "NPC"
+    },
+    {
+        "star" : "teni",
+        "star-desc" : "Star of Swift Majesty",
+        "star-rank" : "Heaven",
+        "name" : "Pesmerga",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenei",
+        "star-desc" : "Star of Heroic",
+        "star-rank" : "Heaven",
+        "name" : "Sierra Mikain",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenei_",
+        "star-desc" : "Lofty Star",
+        "star-rank" : "Heaven",
+        "name" : "Teresa Wisemail",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenfu",
+        "star-desc" : "Star of Wealth",
+        "star-rank" : "Heaven",
+        "name" : "Nina",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenman",
+        "star-desc" : "Star of Abundance",
+        "star-rank" : "Heaven",
+        "name" : "Feather/Sigfried/Abizboah",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenko",
+        "star-desc" : "Lone Star",
+        "star-rank" : "Heaven",
+        "name" : "Viktor",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenshou",
+        "star-desc" : "Wounded Star",
+        "star-rank" : "Heaven",
+        "name" : "Valeria/Tomo",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenritsu",
+        "star-desc" : "Star of the Standing Spear",
+        "star-rank" : "Heaven",
+        "name" : "Fitcher",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenshou_",
+        "star-desc" : "The Swift Star",
+        "star-rank" : "Heaven",
+        "name" : "Clive",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenan",
+        "star-desc" : "Dark Star",
+        "star-rank" : "Heaven",
+        "name" : "Flik",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenyuu_",
+        "star-desc" : "Guardian Star",
+        "star-rank" : "Heaven",
+        "name" : "Tsai",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenkuu",
+        "star-desc" : "Empty Star",
+        "star-rank" : "Heaven",
+        "name" : "Jess",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tensoku",
+        "star-desc" : "Speedy Star",
+        "star-rank" : "Heaven",
+        "name" : "Stallion",
+        "type" : "PC"
+    },
+    {
+        "star" : "teni",
+        "star-desc" : "Strange Star",
+        "star-rank" : "Heaven",
+        "name" : "Georg Prime",
+        "type" : "PC"
+    },
+    {
+        "star" : "tensatsu",
+        "star-desc" : "Murderous Star",
+        "star-rank" : "Heaven",
+        "name" : "Hanna",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenbi",
+        "star-desc" : "Lowly Star",
+        "star-rank" : "Heaven",
+        "name" : "Killey",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenkyuu",
+        "star-desc" : "Lewd Star",
+        "star-rank" : "Heaven",
+        "name" : "Anita",
+        "type" : "PC"
+    },
+    {
+        "star" : "tentai",
+        "star-desc" : "Retreating Star",
+        "star-rank" : "Heaven",
+        "name" : "Feather/Sigfried/Abizboah",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenju",
+        "star-desc" : "Star of Longevity",
+        "star-rank" : "Heaven",
+        "name" : "Nanami",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenken",
+        "star-desc" : "Dagger Star",
+        "star-rank" : "Heaven",
+        "name" : "Rina",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenhei",
+        "star-desc" : "Leveled Star",
+        "star-rank" : "Heaven",
+        "name" : "Tai Ho",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenzai",
+        "star-desc" : "Star of Sin",
+        "star-rank" : "Heaven",
+        "name" : "Eilie",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenson",
+        "star-desc" : "Broken Star",
+        "star-rank" : "Heaven",
+        "name" : "Yam Koo",
+        "type" : "NPC"
+    },
+    {
+        "star" : "tenpai",
+        "star-desc" : "The Vanquised Star",
+        "star-rank" : "Heaven",
+        "name" : "Bolgan",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenrou",
+        "star-desc" : "The Goal Star",
+        "star-rank" : "Heaven",
+        "name" : "Hix",
+        "type" : "PC"
+    },
+    {
+        "star" : "tensui",
+        "star-desc" : "Star of Intelligence",
+        "star-rank" : "Heaven",
+        "name" : "Tengaar",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenbou",
+        "star-desc" : "Savage Star",
+        "star-rank" : "Heaven",
+        "name" : "Freed Yamamoto",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenkoku",
+        "star-desc" : "Wailing Star",
+        "star-rank" : "Heaven",
+        "name" : "Yoshino Yamamoto",
+        "type" : "PC"
+    },
+    {
+        "star" : "tenkou",
+        "star-desc" : "Clever Star",
+        "star-rank" : "Heaven",
+        "name" : "Chaco",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikai",
+        "star-desc" : "Chief Star of Earth",
+        "star-rank" : "Earth",
+        "name" : "Klaus Windamier",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chisatsu",
+        "star-desc" : "Violent Star",
+        "star-rank" : "Earth",
+        "name" : "Gilbert",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiyuu",
+        "star-desc" : "The Brave Star",
+        "star-rank" : "Earth",
+        "name" : "Tetsu",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiketsu",
+        "star-desc" : "Star of Noble Wisdom",
+        "star-rank" : "Earth",
+        "name" : "Jeane",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiyuu_",
+        "star-desc" : "The Heroic Star",
+        "star-rank" : "Earth",
+        "name" : "Wakaba",
+        "type" : "PC"
+    },
+    {
+        "star" : "chii",
+        "star-desc" : "The Majestic Star",
+        "star-rank" : "Earth",
+        "name" : "Maximillian",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiei",
+        "star-desc" : "Star of Courage",
+        "star-rank" : "Earth",
+        "name" : "Genshu",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiki",
+        "star-desc" : "The Strange Star",
+        "star-rank" : "Earth",
+        "name" : "Camus",
+        "type" : "PC"
+    },
+    {
+        "star" : "chimou",
+        "star-desc" : "The Ferocious Star",
+        "star-rank" : "Earth",
+        "name" : "Miklotov",
+        "type" : "PC"
+    },
+    {
+        "star" : "chibun",
+        "star-desc" : "The Learned Star",
+        "star-rank" : "Earth",
+        "name" : "Jude",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chisei",
+        "star-desc" : "The Guileless Star",
+        "star-rank" : "Earth",
+        "name" : "Lebrante",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chikatsu",
+        "star-desc" : "The Eminent Star",
+        "star-rank" : "Earth",
+        "name" : "Lorelai",
+        "type" : "PC"
+    },
+    {
+        "star" : "chitou",
+        "star-desc" : "The Folding Star",
+        "star-rank" : "Earth",
+        "name" : "Tony",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chikyou",
+        "star-desc" : "The Strong Star",
+        "star-rank" : "Earth",
+        "name" : "Gijimu",
+        "type" : "PC"
+    },
+    {
+        "star" : "chian",
+        "star-desc" : "The Strong Star",
+        "star-rank" : "Earth",
+        "name" : "Rikimaru",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiziku",
+        "star-desc" : "The Axis Star",
+        "star-rank" : "Earth",
+        "name" : "Gantetsu",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikai",
+        "star-desc" : "The Star of Gathering",
+        "star-rank" : "Earth",
+        "name" : "Simone Verdricci",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikai",
+        "star-desc" : "The Aiding Star",
+        "star-rank" : "Earth",
+        "name" : "Connell",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiyou",
+        "star-desc" : "The Helpful Star",
+        "star-rank" : "Earth",
+        "name" : "Hans",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chirei",
+        "star-desc" : "The Clever Star",
+        "star-rank" : "Earth",
+        "name" : "Huan",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiju",
+        "star-desc" : "The Beast Star",
+        "star-rank" : "Earth",
+        "name" : "Tuta",
+        "type" : "PC"
+    },
+    {
+        "star" : "chibi",
+        "star-desc" : "The Least Star",
+        "star-rank" : "Earth",
+        "name" : "Futch",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikyu",
+        "star-desc" : "The Intelligent Star",
+        "star-rank" : "Earth",
+        "name" : "Kasumi/Tomo",
+        "type" : "PC"
+    },
+    {
+        "star" : "chibaku",
+        "star-desc" : "The Barbarous Star",
+        "star-rank" : "Earth",
+        "name" : "Badeaux",
+        "type" : "PC"
+    },
+    {
+        "star" : "chizen",
+        "star-desc" : "The Silent Star",
+        "star-rank" : "Earth",
+        "name" : "Mazus",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikou",
+        "star-desc" : "The Wild Star",
+        "star-rank" : "Earth",
+        "name" : "Mondo",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikyou_",
+        "star-desc" : "The Star of Ambition",
+        "star-rank" : "Earth",
+        "name" : "Sasuke",
+        "type" : "PC"
+    },
+    {
+        "star" : "chihi",
+        "star-desc" : "The Flying Star",
+        "star-rank" : "Earth",
+        "name" : "Leona",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chisou",
+        "star-desc" : "The Walking Star",
+        "star-rank" : "Earth",
+        "name" : "Adlai",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chikou_",
+        "star-desc" : "The Cunning Star",
+        "star-rank" : "Earth",
+        "name" : "Raura",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chimei",
+        "star-desc" : "The Clear Star",
+        "star-rank" : "Earth",
+        "name" : "Sheena",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisin",
+        "star-desc" : "The Forward Star",
+        "star-rank" : "Earth",
+        "name" : "Kinnison",
+        "type" : "PC"
+    },
+    {
+        "star" : "chitai",
+        "star-desc" : "The Retreating Star",
+        "star-rank" : "Earth",
+        "name" : "Shiro",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiman",
+        "star-desc" : "The Full Star",
+        "star-rank" : "Earth",
+        "name" : "Amada",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisui",
+        "star-desc" : "The Fulfilled Star",
+        "star-rank" : "Earth",
+        "name" : "Emilia",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chishuu",
+        "star-desc" : "The Complete Star",
+        "star-rank" : "Earth",
+        "name" : "Zamza",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiin",
+        "star-desc" : "The Hidden Star",
+        "star-rank" : "Earth",
+        "name" : "Karen",
+        "type" : "PC"
+    },
+    {
+        "star" : "chii",
+        "star-desc" : "The Peculiar Star",
+        "star-rank" : "Earth",
+        "name" : "Lo Wen",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiri",
+        "star-desc" : "The Star of Justice",
+        "star-rank" : "Earth",
+        "name" : "Tenkou",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chisyun",
+        "star-desc" : "The Elegant Star",
+        "star-rank" : "Earth",
+        "name" : "Gadget",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiraku",
+        "star-desc" : "The Star of Music",
+        "star-rank" : "Earth",
+        "name" : "Annallee",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chitatsu",
+        "star-desc" : "The Quick Star",
+        "star-rank" : "Earth",
+        "name" : "Viki",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisoku",
+        "star-desc" : "The Star of Haste",
+        "star-rank" : "Earth",
+        "name" : "Koyu",
+        "type" : "PC"
+    },
+    {
+        "star" : "chichin",
+        "star-desc" : "The Supressing Star",
+        "star-rank" : "Earth",
+        "name" : "Vincent De Boule",
+        "type" : "PC"
+    },
+    {
+        "star" : "chichin",
+        "star-desc" : "The Halted Star",
+        "star-rank" : "Earth",
+        "name" : "Meg",
+        "type" : "PC"
+    },
+    {
+        "star" : "chima",
+        "star-desc" : "The Devil Star",
+        "star-rank" : "Earth",
+        "name" : "Mukumuku",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiyou_",
+        "star-desc" : "The Magic Star",
+        "star-rank" : "Earth",
+        "name" : "Marlowe Cody",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiyuu__",
+        "star-desc" : "The Obsecure Star",
+        "star-rank" : "Earth",
+        "name" : "Richmond",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chifuku",
+        "star-desc" : "The Hiding Star",
+        "star-rank" : "Earth",
+        "name" : "Apple",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chihi",
+        "star-desc" : "The Orphan Star",
+        "star-rank" : "Earth",
+        "name" : "Long Chan Chan",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikuu",
+        "star-desc" : "The Empty Star",
+        "star-rank" : "Earth",
+        "name" : "Millie",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiko",
+        "star-desc" : "The Lonely Star",
+        "star-rank" : "Earth",
+        "name" : "Tessai",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chizen",
+        "star-desc" : "The Finished Star",
+        "star-rank" : "Earth",
+        "name" : "Taki",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chitan",
+        "star-desc" : "The Short Star",
+        "star-rank" : "Earth",
+        "name" : "Gengen",
+        "type" : "PC"
+    },
+    {
+        "star" : "chikaku",
+        "star-desc" : "The Corner Star",
+        "star-rank" : "Earth",
+        "name" : "Gabocha",
+        "type" : "PC"
+    },
+    {
+        "star" : "chishuu",
+        "star-desc" : "The Prisoned Star",
+        "star-rank" : "Earth",
+        "name" : "Yuzu",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chizou",
+        "star-desc" : "The Hoarding Star",
+        "star-rank" : "Earth",
+        "name" : "Hai Yo",
+        "type" : "PC"
+    },
+    {
+        "star" : "chihei",
+        "star-desc" : "The Smooth Star",
+        "star-rank" : "Earth",
+        "name" : "Kahn",
+        "type" : "PC"
+    },
+    {
+        "star" : "chison",
+        "star-desc" : "The Wounded Star",
+        "star-rank" : "Earth",
+        "name" : "Barbara",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chido",
+        "star-desc" : "The Serving Star",
+        "star-rank" : "Earth",
+        "name" : "Sid",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisatsu",
+        "star-desc" : "The Searching Star",
+        "star-rank" : "Earth",
+        "name" : "Shin",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiaku",
+        "star-desc" : "The Fierce Star",
+        "star-rank" : "Earth",
+        "name" : "Oulan",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisuu",
+        "star-desc" : "The Ugly Star",
+        "star-rank" : "Earth",
+        "name" : "Shilo",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisu",
+        "star-desc" : "The Mathematic Star",
+        "star-rank" : "Earth",
+        "name" : "Alex",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiin_",
+        "star-desc" : "The Shadowy Star",
+        "star-rank" : "Earth",
+        "name" : "Hilda",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chikei",
+        "star-desc" : "The Avenging Star",
+        "star-rank" : "Earth",
+        "name" : "Bob",
+        "type" : "PC"
+    },
+    {
+        "star" : "chisou",
+        "star-desc" : "The Strong Star",
+        "star-rank" : "Earth",
+        "name" : "Ayda",
+        "type" : "PC"
+    },
+    {
+        "star" : "chiretsu",
+        "star-desc" : "The Inferior Star",
+        "star-rank" : "Earth",
+        "name" : "Pico",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chiken",
+        "star-desc" : "The Mighty Star",
+        "star-rank" : "Earth",
+        "name" : "Alberto",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chimou",
+        "star-desc" : "The Rat Star",
+        "star-rank" : "Earth",
+        "name" : "Templeton",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chizoku",
+        "star-desc" : "The Thieving Star",
+        "star-rank" : "Earth",
+        "name" : "Hoi",
+        "type" : "NPC"
+    },
+    {
+        "star" : "chikou__",
+        "star-desc" : "The Dog Star",
+        "star-rank" : "Earth",
+        "name" : "Gordon",
+        "type" : "NPC"
+    }
+  ],
+  "edges": [
+    { "source" : "tenkai", "target" : "tenju", "weight": 10},
+    { "source" : "tenkai", "target" : "tenki", "weight": 6}
+  ]
+}

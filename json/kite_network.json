@@ -1,0 +1,37 @@
+{
+	"vertices":[
+		{ "id" : "Andre"},
+		{ "id" : "Beverly"},
+		{ "id" : "Carol"},
+		{ "id" : "Diane"},
+		{ "id" : "Ed"},
+		{ "id" : "Fernando"},
+		{ "id" : "Garth"},
+		{ "id" : "Heather"},
+		{ "id" : "Ike"},
+		{ "id" : "Jane"}
+	],
+	"edges":[
+		{ "source" : "Andre", "target" : "Beverly"},
+		{ "source" : "Andre", "target" : "Diane"},
+		{ "source" : "Andre", "target" : "Carol"},
+		{ "source" : "Andre", "target" : "Fernando"},
+		{ "source" : "Beverly", "target" : "Diane"},
+		{ "source" : "Beverly", "target" : "Ed"},
+		{ "source" : "Beverly", "target" : "Garth"},
+		{ "source" : "Carol", "target" : "Diane"},
+		{ "source" : "Carol", "target" : "Fernando"},
+		{ "source" : "Diane", "target" : "Ed"},
+		{ "source" : "Diane", "target" : "Fernando"},
+		{ "source" : "Diane", "target" : "Garth"},
+		{ "source" : "Ed", "target" : "Garth"},
+		{ "source" : "Fernando", "target" : "Garth"},
+		{ "source" : "Fernando", "target" : "Heather"},
+		{ "source" : "Garth", "target" : "Heather"},
+		{ "source" : "Heather", "target" : "Ike"},
+		{ "source" : "Ike", "target" : "Jane"}
+	],
+	"reference" : [
+		"Hansen, Derek L. et al. (2011). Analyzing Social Media Networks with NODEXL - Insights from a connected world. Elsevier Inc."
+	]
+}
