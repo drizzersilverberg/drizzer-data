@@ -568,7 +568,7 @@
         "type" : "PC"
     },
     {
-        "star" : "chichin",
+        "star" : "chichin_",
         "star-desc" : "The Halted Star",
         "star-rank" : "Earth",
         "name" : "Meg",
@@ -779,6 +779,7 @@
     { "source" : "tenmou", "target" : "chikai", "weight": 10, "desc": "Father-Son"},
     { "source" : "tenei", "target" : "tenko", "weight": 4, "desc": "Neclord Hunter"},
     { "source" : "tenei", "target" : "chihei", "weight": 4, "desc": "Neclord Hunter"},
+    { "source" : "tenei", "target" : "chikai", "weight": 4, "desc": "Sierra interested to Klaus"},
     { "source" : "tenko", "target" : "chihei", "weight": 4, "desc": "Neclord Hunter"},
     { "source" : "tenko", "target" : "tenan", "weight": 8, "desc": "Mercenaries/Scarlet Moon Empire Rebellion"},
     { "source" : "tenko", "target" : "chiko", "weight": 2, "desc": "Tessai want to sharpen Star Dragon Sword"},
@@ -802,6 +803,24 @@
     { "source" : "tenrou", "target" : "tensui", "weight": 10, "desc": "Warrior Villagers/Future Spouse?"},
     { "source" : "tenbou", "target" : "tenkoku", "weight": 10, "desc": "Spouse"},
     { "source" : "chiki", "target" : "chimou", "weight": 8, "desc": "Matilda Captain Knight"},
-    { "source" : "chikou", "target" : "chikyou_", "weight": 8, "desc": "Rokkaku Hamlet Ninjas"}
+    { "source" : "chikou", "target" : "chikyou_", "weight": 8, "desc": "Rokkaku Hamlet Ninjas"},
+    { "source" : "tenshou", "target" : "chikyu", "weight": 4, "desc": "Toran Republic Envoy"},
+    { "source" : "tenei_", "target" : "chisatsu", "weight": 8, "desc": "Lady-Bodyguard"},
+    { "source" : "tenei_", "target" : "chisui", "weight": 4, "desc": "Greenhill-Citizen"},
+    { "source" : "chisatsu", "target" : "chisui", "weight": 4, "desc": "Greenhill-Citizen"},
+    { "source" : "chisatsu", "target" : "tenfu", "weight": 4, "desc": "Greenhill-Citizen"},
+    { "source" : "tenei_", "target" : "tenfu", "weight": 4, "desc": "Greenhill-Citizen"},
+    { "source" : "chisui", "target" : "tenfu", "weight": 4, "desc": "Greenhill-Citizen"},
+    { "source" : "tenhei", "target" : "tenson", "weight": 10, "desc": "Brothers"},
+    { "source" : "chihi", "target" : "chiyuu_", "weight": 8, "desc": "Master-Pupil"},
+    { "source" : "chiketsu", "target" : "chikou_", "weight": 6, "desc": "Related to Rune-thing"},
+    { "source" : "chisin", "target" : "chitai", "weight": 10, "desc": "Master-Pet?"},
+    { "source" : "chichin_", "target" : "chisyun", "weight": 10, "desc": "Master-Assistant?"},
+    { "source" : "chisoku", "target" : "chiyou_", "weight": 6, "desc": "Friend"},
+    { "source" : "chisoku", "target" : "chii", "weight": 8, "desc": "Lampdragon Bandits"},
+    { "source" : "chisoku", "target" : "chikyou", "weight": 8, "desc": "Lampdragon Bandits"},
+    { "source" : "chii", "target" : "chikyou", "weight": 8, "desc": "Lampdragon Bandits"},
+    { "source" : "chikai", "target" : "chichin", "weight": 8, "desc": "Narcissus Peoples"},
+    { "source" : "chifuku", "target" : "chiyuu__", "weight": 2, "desc": "Business"},
   ]
 }
