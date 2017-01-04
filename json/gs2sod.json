@@ -372,14 +372,14 @@
         "type" : "PC"
     },
     {
-        "star" : "chikai",
+        "star" : "chikai_",
         "star-desc" : "The Star of Gathering",
         "star-rank" : "Earth",
         "name" : "Simone Verdricci",
         "type" : "PC"
     },
     {
-        "star" : "chikai",
+        "star" : "chisa",
         "star-desc" : "The Aiding Star",
         "star-rank" : "Earth",
         "name" : "Connell",
@@ -828,7 +828,7 @@
     { "source" : "chisoku", "target" : "chii_", "weight": 8, "desc": "Lampdragon Bandits"},
     { "source" : "chisoku", "target" : "chikyou", "weight": 8, "desc": "Lampdragon Bandits"},
     { "source" : "chii_", "target" : "chikyou", "weight": 8, "desc": "Lampdragon Bandits"},
-    { "source" : "chikai", "target" : "chichin", "weight": 8, "desc": "Narcissus Peoples"},
+    { "source" : "chikai_", "target" : "chichin", "weight": 8, "desc": "Narcissus Peoples"},
     { "source" : "chifuku", "target" : "chiyuu__", "weight": 2, "desc": "Business"},
     { "source" : "tenkou", "target" : "chido", "weight": 6, "desc": "Winged-Buddy"},
     { "source" : "tenkou", "target" : "tenritsu", "weight": 2, "desc": "Conflict"},
@@ -843,9 +843,12 @@
     { "source" : "chibaku", "target" : "tenman", "weight": 2, "desc": "Beast-Tamer"},
     { "source" : "chibaku", "target" : "tentai", "weight": 2, "desc": "Beast-Tamer"},
     { "source" : "tenkan", "target" : "tenan", "weight": 4, "desc": "Toran Republic Comrades"},
-    { "source" : "tenkan", "target" : "chitatsu", "weight": 4, "desc": "Toran Republic Comrades"},
-    { "source" : "tenkan", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
-    { "source" : "chitatsu", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
-    { "source" : "chisin", "target" : "chisou_", "weight": 6, "desc": "Hunters/In-Relationship?"}
+    { "source" : "tenkan", "target" : "tenko", "weight": 4, "desc": "Toran Republic Comrades"},
+    { "source" : "tenan", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
+    { "source" : "tenko", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
+    { "source" : "chisin", "target" : "chisou_", "weight": 6, "desc": "Hunters/In-Relationship?"},
+    { "source" : "chirei", "target" : "chiju", "weight": 8, "desc": "Master-Pupil"},
+    { "source" : "chimei", "target" : "tenshou", "weight": 4, "desc": "Toran Republic Comrades"},
+    { "source" : "chimei", "target" : "chikyu", "weight": 4, "desc": "Toran Republic Comrades"}
   ]
 }
