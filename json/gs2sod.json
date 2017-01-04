@@ -845,6 +845,7 @@
     { "source" : "tenkan", "target" : "tenan", "weight": 4, "desc": "Toran Republic Comrades"},
     { "source" : "tenkan", "target" : "chitatsu", "weight": 4, "desc": "Toran Republic Comrades"},
     { "source" : "tenkan", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
-    { "source" : "chitatsu", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"}
+    { "source" : "chitatsu", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
+    { "source" : "chisin", "target" : "chisou_", "weight": 6, "desc": "Hunters/In-Relationship?"}
   ]
 }
