@@ -722,7 +722,7 @@
         "type" : "PC"
     },
     {
-        "star" : "chisou",
+        "star" : "chisou_",
         "star-desc" : "The Strong Star",
         "star-rank" : "Earth",
         "name" : "Ayda",
@@ -834,10 +834,17 @@
     { "source" : "tenkou", "target" : "tenritsu", "weight": 2, "desc": "Conflict"},
     { "source" : "tengou", "target" : "tenritsu", "weight": 2, "desc": "Conflict"},
     { "source" : "tengou", "target" : "tenmou", "weight": 2, "desc": "Conflict"},
-    { "source" : "chisou", "target" : "tenman", "weight": 4, "desc": "Save the Beast"},
+    { "source" : "chisou_", "target" : "tenman", "weight": 4, "desc": "Save the Beast"},
     { "source" : "tenshou", "target" : "tenkyuu", "weight": 4, "desc": "Rival"},
     { "source" : "chiraku", "target" : "chiretsu", "weight": 10, "desc": "Travelling Musician/Family"},
     { "source" : "chiraku", "target" : "chiken", "weight": 10, "desc": "Travelling Musician/Family"},
-    { "source" : "chiretsu", "target" : "chiken", "weight": 10, "desc": "Travelling Musician/Family"}
+    { "source" : "chiretsu", "target" : "chiken", "weight": 10, "desc": "Travelling Musician/Family"},
+    { "source" : "tenan", "target" : "tenfu", "weight": 6, "desc": "Nina interest to Flik"},
+    { "source" : "chibaku", "target" : "tenman", "weight": 2, "desc": "Beast-Tamer"},
+    { "source" : "chibaku", "target" : "tentai", "weight": 2, "desc": "Beast-Tamer"},
+    { "source" : "tenkan", "target" : "tenan", "weight": 4, "desc": "Toran Republic Comrades"},
+    { "source" : "tenkan", "target" : "chitatsu", "weight": 4, "desc": "Toran Republic Comrades"},
+    { "source" : "tenkan", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
+    { "source" : "chitatsu", "target" : "tenkan_", "weight": 4, "desc": "Toran Republic Comrades/Scarlet Moon Empire Rebellion"},
   ]
 }
