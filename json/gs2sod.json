@@ -109,7 +109,7 @@
         "star-rank" : "Heaven",
         "name" : "Viktor",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/ce/SII_Viktor_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124054820"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/ce/SII_Viktor_Portrait.png"
     },
     {
         "star" : "tenshou",
@@ -117,7 +117,7 @@
         "star-rank" : "Heaven",
         "name" : "Valeria/Tomo",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/7/70/SII_Valeria_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124055437"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/7/70/SII_Valeria_Portrait.png"
     },
     {
         "star" : "tenritsu",
@@ -125,7 +125,7 @@
         "star-rank" : "Heaven",
         "name" : "Fitcher",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/5a/SII_Fitcher_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052832"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/5a/SII_Fitcher_Portrait.png"
     },
     {
         "star" : "tenshou_",
@@ -133,7 +133,7 @@
         "star-rank" : "Heaven",
         "name" : "Clive",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/d/da/SII_Clive_Portrait2.png/revision/latest/scale-to-width-down/60?cb=20150124060258"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/d/da/SII_Clive_Portrait2.png"
     },
     {
         "star" : "tenan",
@@ -141,7 +141,7 @@
         "star-rank" : "Heaven",
         "name" : "Flik",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/3/3e/SII_Flik_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052844"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/3/3e/SII_Flik_Portrait.png"
     },
     {
         "star" : "tenyuu_",
@@ -149,7 +149,7 @@
         "star-rank" : "Heaven",
         "name" : "Tsai",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/5/56/SII_Tsai_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124061719"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/5/56/SII_Tsai_Portrait.png"
     },
     {
         "star" : "tenkuu",
@@ -157,7 +157,7 @@
         "star-rank" : "Heaven",
         "name" : "Jess",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/1/1a/SII_Jess_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123053204"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/1/1a/SII_Jess_Portrait.png"
     },
     {
         "star" : "tensoku",
@@ -165,7 +165,7 @@
         "star-rank" : "Heaven",
         "name" : "Stallion",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/45/SII_Stallion_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124065021"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/45/SII_Stallion_Portrait.png"
     },
     {
         "star" : "teni",
@@ -173,7 +173,7 @@
         "star-rank" : "Heaven",
         "name" : "Georg Prime",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/cb/SII_Georg_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052934"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/cb/SII_Georg_Portrait.png"
     },
     {
         "star" : "tensatsu",
@@ -181,7 +181,7 @@
         "star-rank" : "Heaven",
         "name" : "Hanna",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/0/0e/SII_Hanna_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123053010"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/0/0e/SII_Hanna_Portrait.png"
     },
     {
         "star" : "tenbi",
@@ -189,7 +189,7 @@
         "star-rank" : "Heaven",
         "name" : "Killey",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/7/71/SII_Killey_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124065925"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/7/71/SII_Killey_Portrait.png"
     },
     {
         "star" : "tenkyuu",
@@ -197,7 +197,7 @@
         "star-rank" : "Heaven",
         "name" : "Anita",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/7/7d/SII_Anita_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052157"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/7/7d/SII_Anita_Portrait.png"
     },
     {
         "star" : "tentai",
@@ -205,7 +205,7 @@
         "star-rank" : "Heaven",
         "name" : "Sigfried",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/8/88/SII_Siegfried_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124054109"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/8/88/SII_Siegfried_Portrait.png"
     },
     {
         "star" : "tenju",
@@ -213,7 +213,7 @@
         "star-rank" : "Heaven",
         "name" : "Nanami",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/0/05/SII_Nanami_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124071139"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/0/05/SII_Nanami_Portrait.png"
     },
     {
         "star" : "tenken",
@@ -221,7 +221,7 @@
         "star-rank" : "Heaven",
         "name" : "Rina",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/6/6c/SII_Rina_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124071519"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/6/6c/SII_Rina_Portrait.png"
     },
     {
         "star" : "tenhei",
@@ -229,7 +229,7 @@
         "star-rank" : "Heaven",
         "name" : "Tai Ho",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9f/SII_Tai_Ho_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124072019"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9f/SII_Tai_Ho_Portrait.png"
     },
     {
         "star" : "tenzai",
@@ -237,7 +237,7 @@
         "star-rank" : "Heaven",
         "name" : "Eilie",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/e/e8/SII_Eilie_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052324"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/e/e8/SII_Eilie_Portrait.png"
     },
     {
         "star" : "tenson",
@@ -245,7 +245,7 @@
         "star-rank" : "Heaven",
         "name" : "Yam Koo",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/9/9b/SII_Yam_Koo_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124072645"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/9/9b/SII_Yam_Koo_Portrait.png"
     },
     {
         "star" : "tenpai",
@@ -253,7 +253,7 @@
         "star-rank" : "Heaven",
         "name" : "Bolgan",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9c/SII_Bolgan_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052319"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9c/SII_Bolgan_Portrait.png"
     },
     {
         "star" : "tenrou",
@@ -261,7 +261,7 @@
         "star-rank" : "Heaven",
         "name" : "Hix",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/4/44/SII_Hix_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123053104"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/4/44/SII_Hix_Portrait.png"
     },
     {
         "star" : "tensui",
@@ -269,7 +269,7 @@
         "star-rank" : "Heaven",
         "name" : "Tengaar",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/f/f9/SII_Tengaar_Portrait2.png/revision/latest/scale-to-width-down/60?cb=20150124073231"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/f/f9/SII_Tengaar_Portrait2.png"
     },
     {
         "star" : "tenbou",
@@ -277,7 +277,7 @@
         "star-rank" : "Heaven",
         "name" : "Freed Yamamoto",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/f/fd/SII_Freed_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052815"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/f/fd/SII_Freed_Portrait.png"
     },
     {
         "star" : "tenkoku",
@@ -285,7 +285,7 @@
         "star-rank" : "Heaven",
         "name" : "Yoshino Yamamoto",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/50/SII_Yoshino_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124073548"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/50/SII_Yoshino_Portrait.png"
     },
     {
         "star" : "tenkou",
@@ -293,7 +293,7 @@
         "star-rank" : "Heaven",
         "name" : "Chaco",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/8/86/SII_Chaco_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052329"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/8/86/SII_Chaco_Portrait.png"
     },
     {
         "star" : "chikai",
@@ -301,7 +301,7 @@
         "star-rank" : "Earth",
         "name" : "Klaus Windamier",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/5/59/SII_Klaus_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125055741"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/5/59/SII_Klaus_Portrait.png"
     },
     {
         "star" : "chisatsu",
@@ -309,7 +309,7 @@
         "star-rank" : "Earth",
         "name" : "Gilbert",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/51/SII_Gilbert_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125060334"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/51/SII_Gilbert_Portrait.png"
     },
     {
         "star" : "chiyuu",
@@ -317,7 +317,7 @@
         "star-rank" : "Earth",
         "name" : "Tetsu",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/3/32/SII_Tetsu_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125060536"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/3/32/SII_Tetsu_Portrait.png"
     },
     {
         "star" : "chiketsu",
@@ -325,7 +325,7 @@
         "star-rank" : "Earth",
         "name" : "Jeane",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/f/fc/SII_Jeane_Portrait2.png/revision/latest/scale-to-width-down/60?cb=20150125060714"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/f/fc/SII_Jeane_Portrait2.png"
     },
     {
         "star" : "chiyuu_",
@@ -333,7 +333,7 @@
         "star-rank" : "Earth",
         "name" : "Wakaba",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/47/SII_Wakaba_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125060951"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/47/SII_Wakaba_Portrait.png"
     },
     {
         "star" : "chii",
@@ -341,7 +341,7 @@
         "star-rank" : "Earth",
         "name" : "Maximillian",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/5/5a/SII_Maximillian_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125061330"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/5/5a/SII_Maximillian_Portrait.png"
     },
     {
         "star" : "chiei",
@@ -349,7 +349,7 @@
         "star-rank" : "Earth",
         "name" : "Genshu",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/3/37/SII_Genshu_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125062349"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/3/37/SII_Genshu_Portrait.png"
     },
     {
         "star" : "chiki",
@@ -357,7 +357,7 @@
         "star-rank" : "Earth",
         "name" : "Camus",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/cc/SII_Camus_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125062530"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/cc/SII_Camus_Portrait.png"
     },
     {
         "star" : "chimou",
@@ -365,7 +365,7 @@
         "star-rank" : "Earth",
         "name" : "Miklotov",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/3/3c/SII_Miklotov_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150125062800"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/3/3c/SII_Miklotov_Portrait.png"
     },
     {
         "star" : "chibun",
@@ -373,7 +373,7 @@
         "star-rank" : "Earth",
         "name" : "Jude",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/43/SII_Jude_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126083948"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/43/SII_Jude_Portrait.png"
     },
     {
         "star" : "chisei",
@@ -381,7 +381,7 @@
         "star-rank" : "Earth",
         "name" : "Lebrante",
         "type" : "NPC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/2/29/SII_Lebrante_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126105443"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/2/29/SII_Lebrante_Portrait.png"
     },
     {
         "star" : "chikatsu",
@@ -389,7 +389,7 @@
         "star-rank" : "Earth",
         "name" : "Lorelai",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/8/8a/SII_Lorelai_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126105832"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/8/8a/SII_Lorelai_Portrait.png"
     },
     {
         "star" : "chitou",
@@ -397,7 +397,7 @@
         "star-rank" : "Earth",
         "name" : "Tony",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/5/5e/SII_Tony_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126110502"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/5/5e/SII_Tony_Portrait.png"
     },
     {
         "star" : "chikyou",
@@ -405,7 +405,7 @@
         "star-rank" : "Earth",
         "name" : "Gijimu",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/6/6e/SII_Gijimu_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126110917"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/6/6e/SII_Gijimu_Portrait.png"
     },
     {
         "star" : "chian",
@@ -413,7 +413,7 @@
         "star-rank" : "Earth",
         "name" : "Rikimaru",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/9/9d/SII_Rikimaru_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126111106"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/9/9d/SII_Rikimaru_Portrait.png"
     },
     {
         "star" : "chiziku",
@@ -421,7 +421,7 @@
         "star-rank" : "Earth",
         "name" : "Gantetsu",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/2/20/SII_Gantetsu_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126111253"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/2/20/SII_Gantetsu_Portrait.png"
     },
     {
         "star" : "chikai_",
@@ -429,7 +429,7 @@
         "star-rank" : "Earth",
         "name" : "Simone Verdricci",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/a/a9/SII_Simone_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126111459"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/a/a9/SII_Simone_Portrait.png"
     },
     {
         "star" : "chisa",
@@ -437,7 +437,7 @@
         "star-rank" : "Earth",
         "name" : "Connell",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/6/60/SII_Connell_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126111654"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/6/60/SII_Connell_Portrait.png"
     },
     {
         "star" : "chiyou",
@@ -445,7 +445,7 @@
         "star-rank" : "Earth",
         "name" : "Hans",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/8/86/SII_Hans_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126112044"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/8/86/SII_Hans_Portrait.png"
     },
     {
         "star" : "chirei",
@@ -453,7 +453,7 @@
         "star-rank" : "Earth",
         "name" : "Huan",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/d/d8/SII_Huan_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126112241"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/d/d8/SII_Huan_Portrait.png"
     },
     {
         "star" : "chiju",
@@ -461,7 +461,7 @@
         "star-rank" : "Earth",
         "name" : "Tuta",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/9/93/SII_Tuta_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126112526"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/9/93/SII_Tuta_Portrait.png"
     },
     {
         "star" : "chibi",
@@ -469,7 +469,7 @@
         "star-rank" : "Earth",
         "name" : "Futch",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/d/da/SII_Futch_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126112621"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/d/da/SII_Futch_Portrait.png"
     },
     {
         "star" : "chikyu",
@@ -477,7 +477,7 @@
         "star-rank" : "Earth",
         "name" : "Kasumi/Tomo",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/a/a2/SII_Kasumi_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126112817"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/a/a2/SII_Kasumi_Portrait.png"
     },
     {
         "star" : "chibaku",
@@ -485,7 +485,7 @@
         "star-rank" : "Earth",
         "name" : "Badeaux",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/e/ea/SII_Badeaux_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126113004"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/e/ea/SII_Badeaux_Portrait.png"
     },
     {
         "star" : "chizen",
@@ -493,7 +493,7 @@
         "star-rank" : "Earth",
         "name" : "Mazus",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/1/1e/SII_Mazus_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126113227"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/1/1e/SII_Mazus_Portrait.png"
     },
     {
         "star" : "chikou",
@@ -501,7 +501,7 @@
         "star-rank" : "Earth",
         "name" : "Mondo",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/4c/SII_Mondo_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126113508"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/4/4c/SII_Mondo_Portrait.png"
     },
     {
         "star" : "chikyou_",
@@ -509,7 +509,7 @@
         "star-rank" : "Earth",
         "name" : "Sasuke",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/2/2a/SII_Sasuke_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150126085042"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/2/2a/SII_Sasuke_Portrait.png"
     },
     {
         "star" : "chihi",
@@ -517,7 +517,7 @@
         "star-rank" : "Earth",
         "name" : "Leona",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/6/6b/SII_Leona_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127020457"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/6/6b/SII_Leona_Portrait.png"
     },
     {
         "star" : "chisou",
@@ -525,7 +525,7 @@
         "star-rank" : "Earth",
         "name" : "Adlai",
         "type" : "NPC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/9/9a/SII_Adlai_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127020822"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/9/9a/SII_Adlai_Portrait.png"
     },
     {
         "star" : "chikou_",
@@ -533,7 +533,7 @@
         "star-rank" : "Earth",
         "name" : "Raura",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/a/a6/SII_Raura_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127021051"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/a/a6/SII_Raura_Portrait.png"
     },
     {
         "star" : "chimei",
@@ -541,7 +541,7 @@
         "star-rank" : "Earth",
         "name" : "Sheena",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/c3/SII_Sheena_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127021310"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/c3/SII_Sheena_Portrait.png"
     },
     {
         "star" : "chisin",
@@ -549,7 +549,7 @@
         "star-rank" : "Earth",
         "name" : "Kinnison",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/a/a2/SII_Kinnison_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127021531"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/a/a2/SII_Kinnison_Portrait.png"
     },
     {
         "star" : "chitai",
@@ -557,7 +557,7 @@
         "star-rank" : "Earth",
         "name" : "Shiro",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/b/bd/SII_Shiro_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127022029"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/b/bd/SII_Shiro_Portrait.png"
     },
     {
         "star" : "chiman",
@@ -565,7 +565,7 @@
         "star-rank" : "Earth",
         "name" : "Amada",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/d/d0/SII_Amada_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127022213"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/d/d0/SII_Amada_Portrait.png"
     },
     {
         "star" : "chisui",
@@ -573,7 +573,7 @@
         "star-rank" : "Earth",
         "name" : "Emilia",
         "type" : "NPC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/a/a1/SII_Emilia_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127022330"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/a/a1/SII_Emilia_Portrait.png"
     },
     {
         "star" : "chishuu",
@@ -581,7 +581,7 @@
         "star-rank" : "Earth",
         "name" : "Zamza",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/c/c8/SII_Zamza_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127022518"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/c/c8/SII_Zamza_Portrait.png"
     },
     {
         "star" : "chiin",
@@ -589,7 +589,7 @@
         "star-rank" : "Earth",
         "name" : "Karen",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/a/a1/SII_Karen_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127022646"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/a/a1/SII_Karen_Portrait.png"
     },
     {
         "star" : "chii_",
@@ -597,7 +597,7 @@
         "star-rank" : "Earth",
         "name" : "Lo Wen",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/4/41/SII_Lo_Wen_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127022811"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/4/41/SII_Lo_Wen_Portrait.png"
     },
     {
         "star" : "chiri",
@@ -605,7 +605,7 @@
         "star-rank" : "Earth",
         "name" : "Tenkou",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/9/9f/SII_Tenkou_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127023053"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/9/9f/SII_Tenkou_Portrait.png"
     },
     {
         "star" : "chisyun",
@@ -613,7 +613,7 @@
         "star-rank" : "Earth",
         "name" : "Gadget",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/2/29/SII_Gadget_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127023303"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/2/29/SII_Gadget_Portrait.png"
     },
     {
         "star" : "chiraku",
@@ -621,7 +621,7 @@
         "star-rank" : "Earth",
         "name" : "Annallee",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/7/71/SII_Annallee_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127023745"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/7/71/SII_Annallee_Portrait.png"
     },
     {
         "star" : "chitatsu",
@@ -629,7 +629,7 @@
         "star-rank" : "Earth",
         "name" : "Viki",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/8/8b/SII_Viki_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024158"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/8/8b/SII_Viki_Portrait.png"
     },
     {
         "star" : "chisoku",
@@ -637,7 +637,7 @@
         "star-rank" : "Earth",
         "name" : "Koyu",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/8/8b/SII_Viki_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024158"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/8/8b/SII_Viki_Portrait.png"
     },
     {
         "star" : "chichin",
@@ -645,7 +645,7 @@
         "star-rank" : "Earth",
         "name" : "Vincent De Boule",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/3/3a/SII_Vincent_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024329"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/3/3a/SII_Vincent_Portrait.png"
     },
     {
         "star" : "chichin_",
@@ -653,7 +653,7 @@
         "star-rank" : "Earth",
         "name" : "Meg",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/d/d0/SII_Meg_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024359"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/d/d0/SII_Meg_Portrait.png"
     },
     {
         "star" : "chima",
@@ -661,7 +661,7 @@
         "star-rank" : "Earth",
         "name" : "Mukumuku",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/c0/SII_Mukumuku_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024432"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/c/c0/SII_Mukumuku_Portrait.png"
     },
     {
         "star" : "chiyou_",
@@ -669,7 +669,7 @@
         "star-rank" : "Earth",
         "name" : "Marlowe Cody",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/7/7f/SII_Marlowe_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024516"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/7/7f/SII_Marlowe_Portrait.png"
     },
     {
         "star" : "chiyuu__",
@@ -677,7 +677,7 @@
         "star-rank" : "Earth",
         "name" : "Richmond",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/e/e4/SII_Richmond_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024602"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/e/e4/SII_Richmond_Portrait.png"
     },
     {
         "star" : "chifuku",
@@ -685,7 +685,7 @@
         "star-rank" : "Earth",
         "name" : "Apple",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/d/de/SII_Apple_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024639"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/d/de/SII_Apple_Portrait.png"
     },
     {
         "star" : "chihi_",
@@ -693,7 +693,7 @@
         "star-rank" : "Earth",
         "name" : "Long Chan Chan",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/cb/SII_Long_Chan_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024657"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/cb/SII_Long_Chan_Portrait.png"
     },
     {
         "star" : "chikuu",
@@ -701,7 +701,7 @@
         "star-rank" : "Earth",
         "name" : "Millie",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/7/74/SII_Millie_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127014823"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/7/74/SII_Millie_Portrait.png"
     },
     {
         "star" : "chiko",
@@ -709,7 +709,7 @@
         "star-rank" : "Earth",
         "name" : "Tessai",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/0/01/SII_Tessai_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024823"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/0/01/SII_Tessai_Portrait.png"
     },
     {
         "star" : "chizen",
@@ -717,7 +717,7 @@
         "star-rank" : "Earth",
         "name" : "Taki",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/f/f7/SII_Taki_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024900"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/f/f7/SII_Taki_Portrait.png"
     },
     {
         "star" : "chitan",
@@ -725,7 +725,7 @@
         "star-rank" : "Earth",
         "name" : "Gengen",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/6/62/SII_Gengen_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024947"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/6/62/SII_Gengen_Portrait.png"
     },
     {
         "star" : "chikaku",
@@ -733,7 +733,7 @@
         "star-rank" : "Earth",
         "name" : "Gabocha",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9c/SII_Gabocha_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127024958"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9c/SII_Gabocha_Portrait.png"
     },
     {
         "star" : "chishuu",
@@ -741,7 +741,7 @@
         "star-rank" : "Earth",
         "name" : "Yuzu",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/e/ea/SII_Yuzu_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129022757"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/e/ea/SII_Yuzu_Portrait.png"
     },
     {
         "star" : "chizou",
@@ -757,7 +757,7 @@
         "star-rank" : "Earth",
         "name" : "Kahn",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/9/95/SII_Hai_Yo_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150127025109"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/9/95/SII_Hai_Yo_Portrait.png"
     },
     {
         "star" : "chison",
@@ -765,7 +765,7 @@
         "star-rank" : "Earth",
         "name" : "Barbara",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/f/f3/SII_Barbara_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129022906"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/f/f3/SII_Barbara_Portrait.png"
     },
     {
         "star" : "chido",
@@ -773,7 +773,7 @@
         "star-rank" : "Earth",
         "name" : "Sid",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/0/08/SII_Sid_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129023437"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/0/08/SII_Sid_Portrait.png"
     },
     {
         "star" : "chisatsu_",
@@ -781,7 +781,7 @@
         "star-rank" : "Earth",
         "name" : "Shin",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/1/1e/SII_Shin_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129023610"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/1/1e/SII_Shin_Portrait.png"
     },
     {
         "star" : "chiaku",
@@ -789,7 +789,7 @@
         "star-rank" : "Earth",
         "name" : "Oulan",
         "type" : "PC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/c1/SII_Oulan_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129023840"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/c1/SII_Oulan_Portrait.png"
     },
     {
         "star" : "chisuu",
@@ -797,7 +797,7 @@
         "star-rank" : "Earth",
         "name" : "Shilo",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/0/0f/SII_Shilo_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129024237"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/0/0f/SII_Shilo_Portrait.png"
     },
     {
         "star" : "chisu",
@@ -805,7 +805,7 @@
         "star-rank" : "Earth",
         "name" : "Alex",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/b/b8/SII_Alex_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129024445"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/b/b8/SII_Alex_Portrait.png"
     },
     {
         "star" : "chiin_",
@@ -813,7 +813,7 @@
         "star-rank" : "Earth",
         "name" : "Hilda",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/b/b1/SII_Hilda_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129025121"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/b/b1/SII_Hilda_Portrait.png"
     },
     {
         "star" : "chikei",
@@ -821,7 +821,7 @@
         "star-rank" : "Earth",
         "name" : "Bob",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/b/bf/SII_Bob_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129025435"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/b/bf/SII_Bob_Portrait.png"
     },
     {
         "star" : "chisou_",
@@ -829,7 +829,7 @@
         "star-rank" : "Earth",
         "name" : "Ayda",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9b/SII_Ayda_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129025836"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/9b/SII_Ayda_Portrait.png"
     },
     {
         "star" : "chiretsu",
@@ -837,7 +837,7 @@
         "star-rank" : "Earth",
         "name" : "Pico",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/b/be/SII_Pico_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129030019"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/b/be/SII_Pico_Portrait.png"
     },
     {
         "star" : "chiken",
@@ -845,7 +845,7 @@
         "star-rank" : "Earth",
         "name" : "Alberto",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/5/53/SII_Alberto_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129030203"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/5/53/SII_Alberto_Portrait.png"
     },
     {
         "star" : "chimou",
@@ -853,7 +853,7 @@
         "star-rank" : "Earth",
         "name" : "Templeton",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/5c/SII_Templeton_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129030812"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/5c/SII_Templeton_Portrait.png"
     },
     {
         "star" : "chizoku",
@@ -861,7 +861,7 @@
         "star-rank" : "Earth",
         "name" : "Hoi",
         "type" : "NPC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/92/SII_Hoi_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129030941"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/9/92/SII_Hoi_Portrait.png"
     },
     {
         "star" : "chikou__",
@@ -869,7 +869,7 @@
         "star-rank" : "Earth",
         "name" : "Gordon",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/4/44/SII_Gordon_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150129031107"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/4/44/SII_Gordon_Portrait.png"
     }
   ],
 "edges": [
