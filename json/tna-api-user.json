@@ -1,0 +1,1038 @@
+{
+
+    "edges": [
+        {
+            "source": "5741722",
+            "target": "761454924500574208",
+            "weight": 1
+        },
+        {
+            "source": "1145169192",
+            "target": "89168924",
+            "weight": 2
+        },
+        {
+            "source": "1145169192",
+            "target": "1536791610",
+            "weight": 2
+        },
+        {
+            "source": "1145169192",
+            "target": "195270033",
+            "weight": 2
+        },
+        {
+            "source": "1145169192",
+            "target": "813286",
+            "weight": 2
+        },
+        {
+            "source": "2258377387",
+            "target": "813286",
+            "weight": 1
+        },
+        {
+            "source": "2258377387",
+            "target": "1536791610",
+            "weight": 1
+        },
+        {
+            "source": "1549681238",
+            "target": "3020891608",
+            "weight": 1
+        },
+        {
+            "source": "19563264",
+            "target": "813286",
+            "weight": 1
+        },
+        {
+            "source": "19563264",
+            "target": "737543750",
+            "weight": 1
+        },
+        {
+            "source": "19563264",
+            "target": "50735431",
+            "weight": 1
+        },
+        {
+            "source": "19563264",
+            "target": "19563264",
+            "weight": 1
+        },
+        {
+            "source": "135541985",
+            "target": "303450744",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "3883539614",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "55845696",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "153177381",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "30944592",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "370535742",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "718706233885077509",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "708199477488648193",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "77749735",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "33555158",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "3225763302",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "605031962",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "3020891608",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "103466695",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "3228624627",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "41666975",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "22899478",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "4837315805",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "4745281200",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "707777182383230977",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "746940664458379264",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "467741665",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "49884490",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "303450744",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "4046176192",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "761454924500574208",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "727848929774043137",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "758337585223569408",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "224651523",
+            "weight": 1
+        },
+        {
+            "source": "813286",
+            "target": "265670029",
+            "weight": 1
+        },
+        {
+            "source": "3883539614",
+            "target": "264325600",
+            "weight": 1
+        },
+        {
+            "source": "3883539614",
+            "target": "25073877",
+            "weight": 1
+        },
+        {
+            "source": "55845696",
+            "target": "50735431",
+            "weight": 1
+        },
+        {
+            "source": "783050646866038784",
+            "target": "4745281200",
+            "weight": 1
+        },
+        {
+            "source": "147725246",
+            "target": "303450744",
+            "weight": 1
+        },
+        {
+            "source": "29458079",
+            "target": "103466695",
+            "weight": 1
+        },
+        {
+            "source": "153177381",
+            "target": "50735431",
+            "weight": 1
+        },
+        {
+            "source": "30944592",
+            "target": "15764644",
+            "weight": 1
+        },
+        {
+            "source": "20791372",
+            "target": "3228624627",
+            "weight": 1
+        },
+        {
+            "source": "56413858",
+            "target": "303450744",
+            "weight": 1
+        },
+        {
+            "source": "56413858",
+            "target": "77749735",
+            "weight": 1
+        },
+        {
+            "source": "370535742",
+            "target": "755374159",
+            "weight": 1
+        },
+        {
+            "source": "409486555",
+            "target": "265670029",
+            "weight": 1
+        },
+        {
+            "source": "718706233885077509",
+            "target": "755374159",
+            "weight": 1
+        },
+        {
+            "source": "624413",
+            "target": "224651523",
+            "weight": 1
+        },
+        {
+            "source": "1367531",
+            "target": "103466695",
+            "weight": 1
+        },
+        {
+            "source": "708199477488648193",
+            "target": "755374159",
+            "weight": 1
+        },
+        {
+            "source": "25073877",
+            "target": "4745281200",
+            "weight": 1
+        },
+        {
+            "source": "24645354",
+            "target": "49884490",
+            "weight": 1
+        },
+        {
+            "source": "1339835893",
+            "target": "758337585223569408",
+            "weight": 1
+        },
+        {
+            "source": "1339835893",
+            "target": "224651523",
+            "weight": 1
+        },
+        {
+            "source": "3225763302",
+            "target": "755374159",
+            "weight": 1
+        },
+        {
+            "source": "605031962",
+            "target": "30313925",
+            "weight": 1
+        },
+        {
+            "source": "34372586",
+            "target": "4046176192",
+            "weight": 1
+        },
+        {
+            "source": "1536791610",
+            "target": "467741665",
+            "weight": 1
+        },
+        {
+            "source": "1536791610",
+            "target": "22899478",
+            "weight": 1
+        },
+        {
+            "source": "1536791610",
+            "target": "761454924500574208",
+            "weight": 1
+        },
+        {
+            "source": "1536791610",
+            "target": "49884490",
+            "weight": 1
+        },
+        {
+            "source": "242618658",
+            "target": "4745281200",
+            "weight": 1
+        },
+        {
+            "source": "41666975",
+            "target": "50735431",
+            "weight": 1
+        },
+        {
+            "source": "22899478",
+            "target": "89168924",
+            "weight": 1
+        },
+        {
+            "source": "22899478",
+            "target": "195270033",
+            "weight": 1
+        },
+        {
+            "source": "59709743",
+            "target": "3020891608",
+            "weight": 1
+        },
+        {
+            "source": "811352708544221184",
+            "target": "224651523",
+            "weight": 1
+        },
+        {
+            "source": "710637317220741120",
+            "target": "758337585223569408",
+            "weight": 1
+        },
+        {
+            "source": "5392522",
+            "target": "761454924500574208",
+            "weight": 1
+        },
+        {
+            "source": "93935172",
+            "target": "4046176192",
+            "weight": 1
+        },
+        {
+            "source": "3020891608",
+            "target": "3020891608",
+            "weight": 1
+        }
+    ],
+    "nodes": [
+        {
+            "follower": 2567511,
+            "following": 104199,
+            "id": "5741722",
+            "link": "http://twitter.com/nprpolitics",
+            "name": "NPR Politics",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/632194867918163968/fZtGr19H_normal.png",
+            "screen_name": "nprpolitics",
+            "verified": true
+        },
+        {
+            "follower": 34,
+            "following": 76,
+            "id": "1145169192",
+            "link": "http://twitter.com/therichcutler",
+            "name": "Richard Cutler",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3203151456/0bb1d25e6612a8b751490474902f8017_normal.jpeg",
+            "screen_name": "therichcutler",
+            "verified": false
+        },
+        {
+            "follower": 6615,
+            "following": 1916,
+            "id": "2258377387",
+            "link": "http://twitter.com/DJCOMMIX",
+            "name": "Bo Johnson",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/803380486982791169/2C-xTE3K_normal.jpg",
+            "screen_name": "DJCOMMIX",
+            "verified": false
+        },
+        {
+            "follower": 52,
+            "following": 45,
+            "id": "1549681238",
+            "link": "http://twitter.com/DynahoeDave",
+            "name": "David Tiefenbrunn",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000056681625/e6f4cbc164e99b63b460bd0045ec28d4_normal.jpeg",
+            "screen_name": "DynahoeDave",
+            "verified": false
+        },
+        {
+            "follower": 10353,
+            "following": 260,
+            "id": "19563264",
+            "link": "http://twitter.com/HyapatiaLee",
+            "name": "Hyapatia Lee",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/800036371654012928/1wvtKf-U_normal.jpg",
+            "screen_name": "HyapatiaLee",
+            "verified": false
+        },
+        {
+            "follower": 10161,
+            "following": 1155,
+            "id": "135541985",
+            "link": "http://twitter.com/robmtaub",
+            "name": "Rob Taub",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702629442754125828/YGKUDkGA_normal.jpg",
+            "screen_name": "robmtaub",
+            "verified": true
+        },
+        {
+            "follower": 80345775,
+            "following": 632346,
+            "id": "813286",
+            "link": "http://twitter.com/BarackObama",
+            "name": "Barack Obama",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+            "screen_name": "BarackObama",
+            "verified": true
+        },
+        {
+            "follower": 27,
+            "following": 70,
+            "id": "3883539614",
+            "link": "http://twitter.com/mrxeriscape",
+            "name": "Lew Oliphant",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/654009642486333440/ErizBHV3_normal.jpg",
+            "screen_name": "mrxeriscape",
+            "verified": false
+        },
+        {
+            "follower": 107,
+            "following": 86,
+            "id": "55845696",
+            "link": "http://twitter.com/sexxymama131970",
+            "name": "Linda",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779741976925200384/1py9n_V4_normal.jpg",
+            "screen_name": "sexxymama131970",
+            "verified": false
+        },
+        {
+            "follower": 39,
+            "following": 21,
+            "id": "783050646866038784",
+            "link": "http://twitter.com/NewsFlashBreak",
+            "name": "NewsFlashBreakLive",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/812650969490137088/BWl6WfFK_normal.jpg",
+            "screen_name": "NewsFlashBreak",
+            "verified": false
+        },
+        {
+            "follower": 116205,
+            "following": 363,
+            "id": "147725246",
+            "link": "http://twitter.com/FoxNewsInsider",
+            "name": "FoxNewsInsider",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/697824327572570113/x7rm3r-__normal.png",
+            "screen_name": "FoxNewsInsider",
+            "verified": true
+        },
+        {
+            "follower": 425499,
+            "following": 379,
+            "id": "29458079",
+            "link": "http://twitter.com/JudgeJeanine",
+            "name": "Jeanine Pirro",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/635182339174334464/nAwaNx-Y_normal.jpg",
+            "screen_name": "JudgeJeanine",
+            "verified": true
+        },
+        {
+            "follower": 45,
+            "following": 193,
+            "id": "737543750",
+            "link": "http://twitter.com/cabry32188",
+            "name": "Christopher Bryant",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2885464619/97a8925180983169ed6cb2157dad823b_normal.jpeg",
+            "screen_name": "cabry32188",
+            "verified": false
+        },
+        {
+            "follower": 778,
+            "following": 231,
+            "id": "153177381",
+            "link": "http://twitter.com/micjojd",
+            "name": "MiJD",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/656608067786682368/RRs7cPT-_normal.jpg",
+            "screen_name": "micjojd",
+            "verified": false
+        },
+        {
+            "follower": 173,
+            "following": 244,
+            "id": "30944592",
+            "link": "http://twitter.com/CSBoddie",
+            "name": "Caryn Boddie",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2508242466/y7ry5m6p5ve2iiyr16wu_normal.jpeg",
+            "screen_name": "CSBoddie",
+            "verified": false
+        },
+        {
+            "follower": 75641,
+            "following": 143,
+            "id": "20791372",
+            "link": "http://twitter.com/ACLJ",
+            "name": "ACLJ",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649311433180626944/FH5GBHNN_normal.jpg",
+            "screen_name": "ACLJ",
+            "verified": true
+        },
+        {
+            "follower": 609469,
+            "following": 403,
+            "id": "56413858",
+            "link": "http://twitter.com/FoxBusiness",
+            "name": "FOX Business",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/699974743751929856/nf8OCM2A_normal.jpg",
+            "screen_name": "FoxBusiness",
+            "verified": true
+        },
+        {
+            "follower": 1680,
+            "following": 1143,
+            "id": "370535742",
+            "link": "http://twitter.com/stevegagne99",
+            "name": "Steve Gagne",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1686701454/S_normal.jpg",
+            "screen_name": "stevegagne99",
+            "verified": false
+        },
+        {
+            "follower": 5639440,
+            "following": 9,
+            "id": "409486555",
+            "link": "http://twitter.com/MichelleObama",
+            "name": "Michelle Obama",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/507610912933441538/HCKhYoBO_normal.png",
+            "screen_name": "MichelleObama",
+            "verified": true
+        },
+        {
+            "follower": 1217,
+            "following": 4196,
+            "id": "718706233885077509",
+            "link": "http://twitter.com/ruthienelson36",
+            "name": "Ruth Nelson",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/763746217813684224/okQzpYP-_normal.jpg",
+            "screen_name": "ruthienelson36",
+            "verified": false
+        },
+        {
+            "follower": 3173359,
+            "following": 183,
+            "id": "624413",
+            "link": "http://twitter.com/MarketWatch",
+            "name": "MarketWatch",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/705601245596090368/Z6xUOnRg_normal.jpg",
+            "screen_name": "MarketWatch",
+            "verified": true
+        },
+        {
+            "follower": 12374974,
+            "following": 431,
+            "id": "1367531",
+            "link": "http://twitter.com/FoxNews",
+            "name": "Fox News",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/794654746342662144/hHnFe4Sx_normal.jpg",
+            "screen_name": "FoxNews",
+            "verified": true
+        },
+        {
+            "follower": 1220,
+            "following": 4885,
+            "id": "708199477488648193",
+            "link": "http://twitter.com/docdavis77",
+            "name": "Richard Davis DDS",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/727257741048205312/TE6sDKhT_normal.jpg",
+            "screen_name": "docdavis77",
+            "verified": false
+        },
+        {
+            "follower": 540,
+            "following": 1200,
+            "id": "746940664458379264",
+            "link": "http://twitter.com/libertychannel",
+            "name": "American Patriot",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/746941671108186114/xoxRiNu8_normal.jpg",
+            "screen_name": "libertychannel",
+            "verified": false
+        },
+        {
+            "follower": 18703054,
+            "following": 42,
+            "id": "25073877",
+            "link": "http://twitter.com/realDonaldTrump",
+            "name": "Donald J. Trump",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg",
+            "screen_name": "realDonaldTrump",
+            "verified": true
+        },
+        {
+            "follower": 106382,
+            "following": 53683,
+            "id": "24645354",
+            "link": "http://twitter.com/BlueWaterDays",
+            "name": "Gary",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/813894945840844800/CUUpDF8t_normal.jpg",
+            "screen_name": "BlueWaterDays",
+            "verified": false
+        },
+        {
+            "follower": 367,
+            "following": 228,
+            "id": "33555158",
+            "link": "http://twitter.com/MsZack",
+            "name": "MsZack",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/659049169126977536/2KNVNhEo_normal.jpg",
+            "screen_name": "MsZack",
+            "verified": false
+        },
+        {
+            "follower": 11872574,
+            "following": 757,
+            "id": "1339835893",
+            "link": "http://twitter.com/HillaryClinton",
+            "name": "Hillary Clinton",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796243884636512260/zHVoWqKV_normal.jpg",
+            "screen_name": "HillaryClinton",
+            "verified": true
+        },
+        {
+            "follower": 544,
+            "following": 974,
+            "id": "3225763302",
+            "link": "http://twitter.com/JamesYoung1986",
+            "name": "James Young",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/602682698218344449/J5v42IUE_normal.jpg",
+            "screen_name": "JamesYoung1986",
+            "verified": false
+        },
+        {
+            "follower": 405,
+            "following": 216,
+            "id": "605031962",
+            "link": "http://twitter.com/BrianParvi",
+            "name": "Brian Parvizshahi",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/673316809336971264/Y8WDSETb_normal.jpg",
+            "screen_name": "BrianParvi",
+            "verified": false
+        },
+        {
+            "follower": 265,
+            "following": 409,
+            "id": "77749735",
+            "link": "http://twitter.com/EdLindsay",
+            "name": "Edward Lindsay",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000780349001/42c56713410f74fda998358ba38e168c_normal.jpeg",
+            "screen_name": "EdLindsay",
+            "verified": false
+        },
+        {
+            "follower": 1418,
+            "following": 1543,
+            "id": "103466695",
+            "link": "http://twitter.com/flm22",
+            "name": "faithm",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2353428061/aagbhqthn6a1gw81o077_normal.jpeg",
+            "screen_name": "flm22",
+            "verified": false
+        },
+        {
+            "follower": 7518,
+            "following": 1891,
+            "id": "264325600",
+            "link": "http://twitter.com/TheFederalist1",
+            "name": "TheFederalistPapers",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000475913843/9e03756926c91cd79a1e4ea8d83da232_normal.jpeg",
+            "screen_name": "TheFederalist1",
+            "verified": false
+        },
+        {
+            "follower": 47,
+            "following": 5,
+            "id": "34372586",
+            "link": "http://twitter.com/doj",
+            "name": "Daniel",
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "screen_name": "doj",
+            "verified": false
+        },
+        {
+            "follower": 12987916,
+            "following": 72,
+            "id": "1536791610",
+            "link": "http://twitter.com/POTUS",
+            "name": "President Obama",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+            "screen_name": "POTUS",
+            "verified": true
+        },
+        {
+            "follower": 665,
+            "following": 1036,
+            "id": "3228624627",
+            "link": "http://twitter.com/FLjtrg",
+            "name": "Freedom's Guard",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/684441076346785793/xpbqUmjM_normal.jpg",
+            "screen_name": "FLjtrg",
+            "verified": false
+        },
+        {
+            "follower": 1105888,
+            "following": 210982,
+            "id": "242618658",
+            "link": "http://twitter.com/AppSame",
+            "name": "AppSame",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2872780507/402c008bd4805ba74e8cbdfdf636b55d_normal.jpeg",
+            "screen_name": "AppSame",
+            "verified": false
+        },
+        {
+            "follower": 275,
+            "following": 1256,
+            "id": "41666975",
+            "link": "http://twitter.com/AH3RD",
+            "name": "Aaron Handy III",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/258494762/Aaron_Handy_III_normal.jpg",
+            "screen_name": "AH3RD",
+            "verified": false
+        },
+        {
+            "follower": 1341,
+            "following": 2178,
+            "id": "22899478",
+            "link": "http://twitter.com/Fletchski",
+            "name": "Garrie Fletcher",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3296900658/1cbf2c00115e34a97e5caf2a9df51e86_normal.jpeg",
+            "screen_name": "Fletchski",
+            "verified": false
+        },
+        {
+            "follower": 902872,
+            "following": 320,
+            "id": "15764644",
+            "link": "http://twitter.com/NancyPelosi",
+            "name": "Nancy Pelosi",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/571313158510223360/wnSl3yXF_normal.jpeg",
+            "screen_name": "NancyPelosi",
+            "verified": true
+        },
+        {
+            "follower": 510,
+            "following": 1593,
+            "id": "59709743",
+            "link": "http://twitter.com/jenbrunelle2",
+            "name": "Jenbrunelle2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/805444897436237824/Su6Jmy_n_normal.jpg",
+            "screen_name": "jenbrunelle2",
+            "verified": false
+        },
+        {
+            "follower": 1464,
+            "following": 1996,
+            "id": "265670029",
+            "link": "http://twitter.com/TheJuWano",
+            "name": "Wano Wano",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/817033974124052480/PWI9i420_normal.jpg",
+            "screen_name": "TheJuWano",
+            "verified": false
+        },
+        {
+            "follower": 512,
+            "following": 2053,
+            "id": "811352708544221184",
+            "link": "http://twitter.com/NuQum4Real",
+            "name": "NuQum.com",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/813578758565351424/dHM5DpI8_normal.jpg",
+            "screen_name": "NuQum4Real",
+            "verified": false
+        },
+        {
+            "follower": 162,
+            "following": 310,
+            "id": "4745281200",
+            "link": "http://twitter.com/bigdreams1997",
+            "name": "Maggie Jane",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816335306521792512/_LKfX6kA_normal.jpg",
+            "screen_name": "bigdreams1997",
+            "verified": false
+        },
+        {
+            "follower": 1000,
+            "following": 2077,
+            "id": "707777182383230977",
+            "link": "http://twitter.com/TheMikeYikes",
+            "name": "Yikes the Mike",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712481932852867073/mrdrL-TI_normal.jpg",
+            "screen_name": "TheMikeYikes",
+            "verified": false
+        },
+        {
+            "follower": 1529,
+            "following": 652,
+            "id": "303450744",
+            "link": "http://twitter.com/truthismaster",
+            "name": "TIMJPH",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/672431783204401152/2VjzZV2F_normal.png",
+            "screen_name": "truthismaster",
+            "verified": false
+        },
+        {
+            "follower": 4039,
+            "following": 3863,
+            "id": "49884490",
+            "link": "http://twitter.com/k9rotts",
+            "name": "Tonia D",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/801762485950889985/YJ0gAbey_normal.jpg",
+            "screen_name": "k9rotts",
+            "verified": false
+        },
+        {
+            "follower": 47,
+            "following": 306,
+            "id": "467741665",
+            "link": "http://twitter.com/FlyGirlAirWaves",
+            "name": "Deplorable Vic",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712281628383453188/Z89Ht0Ii_normal.jpg",
+            "screen_name": "FlyGirlAirWaves",
+            "verified": false
+        },
+        {
+            "follower": 1585,
+            "following": 3029,
+            "id": "224651523",
+            "link": "http://twitter.com/2bhonest4life",
+            "name": "Jerri❤",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/815948668813668352/WDvPsIxb_normal.jpg",
+            "screen_name": "2bhonest4life",
+            "verified": false
+        },
+        {
+            "follower": 61309,
+            "following": 20858,
+            "id": "755374159",
+            "link": "http://twitter.com/SunnyRayDigital",
+            "name": "Sunny Ray",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/809807559943016448/vjl9K9M2_normal.jpg",
+            "screen_name": "SunnyRayDigital",
+            "verified": false
+        },
+        {
+            "follower": 584486,
+            "following": 15030,
+            "id": "89168924",
+            "link": "http://twitter.com/BBC6Music",
+            "name": "BBC Radio 6 Music",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/759040489320480768/xSze12EK_normal.jpg",
+            "screen_name": "BBC6Music",
+            "verified": true
+        },
+        {
+            "follower": 147,
+            "following": 214,
+            "id": "710637317220741120",
+            "link": "http://twitter.com/RealGuyNow",
+            "name": "RealTruthDeplorable",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/710638651869233152/6Ky0UDDE_normal.jpg",
+            "screen_name": "RealGuyNow",
+            "verified": false
+        },
+        {
+            "follower": 6462220,
+            "following": 72767,
+            "id": "5392522",
+            "link": "http://twitter.com/NPR",
+            "name": "NPR",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+            "screen_name": "NPR",
+            "verified": true
+        },
+        {
+            "follower": 313,
+            "following": 605,
+            "id": "761454924500574208",
+            "link": "http://twitter.com/BoobiesBrains",
+            "name": "LadyJane Speaks",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/761459900656386049/nBZvtK0v_normal.jpg",
+            "screen_name": "BoobiesBrains",
+            "verified": false
+        },
+        {
+            "follower": 1287,
+            "following": 2167,
+            "id": "727848929774043137",
+            "link": "http://twitter.com/TRConservatism",
+            "name": "Other Barry",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/804469530651217920/bN-fnoiY_normal.jpg",
+            "screen_name": "TRConservatism",
+            "verified": false
+        },
+        {
+            "follower": 7422,
+            "following": 8186,
+            "id": "93935172",
+            "link": "http://twitter.com/tillerylakelady",
+            "name": "tillerylakelady",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3025750827/c59521b376a9eefae9052d68d0360651_normal.png",
+            "screen_name": "tillerylakelady",
+            "verified": false
+        },
+        {
+            "follower": 13158108,
+            "following": 224,
+            "id": "30313925",
+            "link": "http://twitter.com/WhiteHouse",
+            "name": "The White House",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/747463206759698432/c8cVVWhj_normal.jpg",
+            "screen_name": "WhiteHouse",
+            "verified": true
+        },
+        {
+            "follower": 116995,
+            "following": 106403,
+            "id": "50735431",
+            "link": "http://twitter.com/NancySinatra",
+            "name": "Nancy Sinatra",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/445763847/cherry_smiles_normal.jpg",
+            "screen_name": "NancySinatra",
+            "verified": true
+        },
+        {
+            "follower": 870,
+            "following": 1085,
+            "id": "4046176192",
+            "link": "http://twitter.com/CitizenChump",
+            "name": "Citizen Chump",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/658622866670272512/yKq8iL2P_normal.jpg",
+            "screen_name": "CitizenChump",
+            "verified": false
+        },
+        {
+            "follower": 3507,
+            "following": 4998,
+            "id": "758337585223569408",
+            "link": "http://twitter.com/ghostbusters224",
+            "name": "BasketCaseSusiePlatt",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/793004558494502912/I_NGmrDJ_normal.jpg",
+            "screen_name": "ghostbusters224",
+            "verified": false
+        },
+        {
+            "follower": 768,
+            "following": 682,
+            "id": "3020891608",
+            "link": "http://twitter.com/sammill01550904",
+            "name": "Sam Miller",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563780547424825344/K9ohYdXq_normal.jpeg",
+            "screen_name": "sammill01550904",
+            "verified": false
+        },
+        {
+            "follower": 80987,
+            "following": 2437,
+            "id": "195270033",
+            "link": "http://twitter.com/BBCRadMac",
+            "name": "RadcliffeMaconieShow",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1847795740/hoxtonbcrop2_normal.jpg",
+            "screen_name": "BBCRadMac",
+            "verified": false
+        },
+        {
+            "follower": 1326,
+            "following": 4984,
+            "id": "4837315805",
+            "link": "http://twitter.com/Dennis122112",
+            "name": "ANTI-ESTABLISHMENT",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/700769838105382912/b2HiTRH4_normal.jpg",
+            "screen_name": "Dennis122112",
+            "verified": false
+        }
+    ]
+
+}

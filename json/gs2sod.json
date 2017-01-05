@@ -13,7 +13,7 @@
         "star-rank" : "Heaven",
         "name" : "Riou",
         "type" : "Hero",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/c/ca/SII_Riou_Portrait.png/revision/latest/scale-to-width-down/58?cb=20150123043430"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/c/ca/SII_Riou_Portrait.png"
     },
     {
         "star" : "tengou",
@@ -21,7 +21,7 @@
         "star-rank" : "Heaven",
         "name" : "Ridley Wizen/Boris Wizen",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/f/fe/SII_Ridley_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123043726"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/f/fe/SII_Ridley_Portrait.png"
     },
     {
         "star" : "tenki",
@@ -29,7 +29,7 @@
         "star-rank" : "Heaven",
         "name" : "Shu",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/c3/SII_Shu_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123044426"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/c/c3/SII_Shu_Portrait.png"
     },
     {
         "star" : "tenkan",
@@ -37,7 +37,7 @@
         "star-rank" : "Heaven",
         "name" : "Luc",
         "type" : "PC",
-        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/7/75/SII_Luc_Portrait01.png/revision/latest/scale-to-width-down/60?cb=20150123061541"
+        "image_url" : "http://vignette2.wikia.nocookie.net/suikoden/images/7/75/SII_Luc_Portrait01.png"
     },
     {
         "star" : "tenkan_",
@@ -45,7 +45,7 @@
         "star-rank" : "Heaven",
         "name" : "Humphrey Mintz",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/8/80/SII_Humphrey_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124045120"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/8/80/SII_Humphrey_Portrait.png"
     },
     {
         "star" : "tenyuu",
@@ -53,7 +53,7 @@
         "star-rank" : "Heaven",
         "name" : "Hauser",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/5/5c/SII_Hauser_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124045607"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/5/5c/SII_Hauser_Portrait.png"
     },
     {
         "star" : "tenmou",
@@ -61,7 +61,7 @@
         "star-rank" : "Heaven",
         "name" : "Kiba Windamier",
         "type" : "NPC",
-        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/a/af/SII_Kiba_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124050137"
+        "image_url" : "http://vignette4.wikia.nocookie.net/suikoden/images/a/af/SII_Kiba_Portrait.png"
     },
     {
         "star" : "teni",
@@ -69,7 +69,7 @@
         "star-rank" : "Heaven",
         "name" : "Pesmerga",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/56/SII_Pesmerga_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124050704"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/56/SII_Pesmerga_Portrait.png"
     },
     {
         "star" : "tenei",
@@ -77,7 +77,7 @@
         "star-rank" : "Heaven",
         "name" : "Sierra Mikain",
         "type" : "PC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/5e/SII_Sierra_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124051222"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/5/5e/SII_Sierra_Portrait.png"
     },
     {
         "star" : "tenei_",
@@ -85,7 +85,7 @@
         "star-rank" : "Heaven",
         "name" : "Teresa Wisemail",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/f/f7/SII_Teresa_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124052229"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/f/f7/SII_Teresa_Portrait.png"
     },
     {
         "star" : "tenfu",
@@ -93,7 +93,7 @@
         "star-rank" : "Heaven",
         "name" : "Nina",
         "type" : "NPC",
-        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/8/8a/SII_Nina_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150124052741"
+        "image_url" : "http://vignette1.wikia.nocookie.net/suikoden/images/8/8a/SII_Nina_Portrait.png"
     },
     {
         "star" : "tenman",
@@ -101,7 +101,7 @@
         "star-rank" : "Heaven",
         "name" : "Feather",
         "type" : "PC",
-        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/1/1d/SII_Feather_Portrait.png/revision/latest/scale-to-width-down/60?cb=20150123052658"
+        "image_url" : "http://vignette3.wikia.nocookie.net/suikoden/images/1/1d/SII_Feather_Portrait.png"
     },
     {
         "star" : "tenko",
